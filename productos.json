@@ -1,0 +1,10 @@
+[
+    {"id":0, "nombre":"1 kg de Nueces de La Rioja", "precio": 3000, "imagen":"./img/id00.jpeg", "cantidad":1},
+    {"id":1, "nombre":"10 kg de Nueces de La Rioja", "precio": 25000, "imagen": "./img/id00.jpeg", "cantidad":1},
+    {"id":2, "nombre":"Nuez confitada clasica por unidad", "precio": 100, "imagen":"./img/id01.jpg", "cantidad":1},
+    {"id":3, "nombre":"Nuez confitada clasica por docena", "precio": 1000, "imagen":"./img/id01.jpg", "cantidad":1},
+    {"id":4, "nombre":"Nuez confitada vegana", "precio": 150, "imagen":"./img/id02.jpeg", "cantidad":1},
+    {"id":5, "nombre":"Docena Nueces veganas", "precio": 1500, "imagen":"./img/id02.jpeg","cantidad":1 },
+    {"id":6, "nombre":"1 kg Pasa de uva", "precio": 1200, "imagen":"./img/id03.jpeg", "cantidad":1},
+    {"id":7, "nombre":"Bolsa de Te de burro", "precio": 500, "imagen":"./img/id04.jpeg", "cantidad":1 }
+]
